@@ -27,7 +27,7 @@ class Dharshana:
             "Advanced DSA",
             "Cloud Deployment (AWS/GCP)"
         ]
-        self.fun_fact     = "I solved 900+ problems on Skillrack & 110+ on LeetCode 🔥"
+        self.fun_fact     = "I solved 950+ problems on Skillrack & 130+ on LeetCode 🔥"
 
     def motto(self):
         return "Code with purpose. Build with passion. Grow every day. 🚀"
