@@ -79,11 +79,11 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/dharshana-s">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=dharshana-s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/dharshana8">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=dharshana8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/dharshana-s">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshana-s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/dharshana8">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshana8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -92,7 +92,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dharshana-s&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=dharshana8&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -100,7 +100,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharshana-s&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharshana8&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -108,7 +108,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dharshana-s&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dharshana8&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---
@@ -137,9 +137,9 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**📌 BookMySeat**](https://github.com/dharshana-s) — Bus Ticket Booking System | React · Node.js · Express · MongoDB | Full-stack booking app with user/admin roles, real-time seat selection, fare calculation, coupon integration & RESTful auth APIs |
-| [**🎓 Placify**](https://github.com/dharshana-s) — Placement Management System | React.js · Spring Boot · PostgreSQL · REST APIs | Centralized placement portal with student records, company management, placement tracking & department-wise dashboards |
-| [**🤖 EvalUI**](https://github.com/dharshana-s) — AI-Powered Tutor Dashboard | React · Node.js · Express · AI APIs | Automatically generates coding questions from uploaded HTML/CSS/JS solutions; produces problem descriptions, starter files, evaluation rules, rubric-based scoring & auto-fill UI |
+| [**📌 BookMySeat**](https://github.com/dharshana8) — Bus Ticket Booking System | React · Node.js · Express · MongoDB | Full-stack booking app with user/admin roles, real-time seat selection, fare calculation, coupon integration & RESTful auth APIs |
+| [**🎓 Placify**](https://github.com/dharshana8) — Placement Management System | React.js · Spring Boot · PostgreSQL · REST APIs | Centralized placement portal with student records, company management, placement tracking & department-wise dashboards |
+| [**🤖 EvalUI**](https://github.com/dharshana8) — AI-Powered Tutor Dashboard | React · Node.js · Express · AI APIs | Automatically generates coding questions from uploaded HTML/CSS/JS solutions; produces problem descriptions, starter files, evaluation rules, rubric-based scoring & auto-fill UI |
 
 </div>
 
@@ -195,16 +195,17 @@ print(me.motto())
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharshana-s)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dharshana-s)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/dharshana-s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharshana8)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dharshana8)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/dharshana8)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dharshana)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dharshana.s2024csbs@sece.ac.in)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dharshana-s&style=flat-square&color=70a5fd&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=dharshana8&style=flat-square&color=70a5fd&label=Profile+Views)
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
