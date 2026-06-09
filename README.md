@@ -27,7 +27,7 @@ class Dharshana:
             "Advanced DSA",
             "Cloud Deployment (AWS/GCP)"
         ]
-        self.fun_fact     = "I solved 950+ problems on Skillrack & 130+ on LeetCode 🔥"
+        self.fun_fact     = "I solved 900+ problems on Skillrack & 110+ on LeetCode 🔥"
 
     def motto(self):
         return "Code with purpose. Build with passion. Grow every day. 🚀"
@@ -105,6 +105,13 @@ print(me.motto())
 
 ---
 
+## 🏆 Trophy Wall
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dharshana8&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+</div>
+
+---
 
 ## 💼 Work Experience
 
@@ -145,9 +152,9 @@ print(me.motto())
 | 🏆 | Achievement | Details |
 |:--:|:------------|:--------|
 | 🥇 | **NPTEL Design Thinking — Top 2% Topper** | Ranked in the top 2% nationally across all participants (2026) |
-| 🔥 | **LeetCode** | 110+ problems solved · Global Rank **314,893** |
-| ⭐ | **HackerRank** | 3 Certificates · **2-Star SQL** badge · Problem Solving certified |
-| 🧱 | **SkillRack** | **900+ problems** solved · **250+ Bronze** medals |
+| 🔥 | [**LeetCode**](https://leetcode.com/u/dharshana03/) | 110+ problems solved · Global Rank **314,893** |
+| ⭐ | [**HackerRank**](https://www.hackerrank.com/profile/dharshana_s20241) | 3 Certificates · **2-Star SQL** badge · Problem Solving certified |
+| 🧱 | [**SkillRack**](http://www.skillrack.com/profile/514798/3de4fbdc15ed68486db10d4d5afdaccee8e3f913) | **900+ problems** solved · **250+ Bronze** medals |
 | 💡 | **Smart India Hackathon 2025** | Selected **Top 50** at college level among **400+ teams** |
 | 🏃 | **24-Hr Hackathon** | Participated @ Sri Shakthi Institute of Engineering & Technology (2026) |
 | 🌱 | **Freshathon 2025** | Participated @ Sri Eshwar College of Engineering |
@@ -188,10 +195,11 @@ print(me.motto())
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharshana8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharshana-s-649700314)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dharshana8)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/dharshana8)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dharshana)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/dharshana03/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dharshana_s20241)
+[![SkillRack](https://img.shields.io/badge/SkillRack-FF6B35?style=flat-square&logo=skillshare&logoColor=white)](http://www.skillrack.com/profile/514798/3de4fbdc15ed68486db10d4d5afdaccee8e3f913)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dharshana.s2024csbs@sece.ac.in)
 
 <br/>
